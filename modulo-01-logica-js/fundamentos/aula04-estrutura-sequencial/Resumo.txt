@@ -1,0 +1,12 @@
+// ============================================================
+// RESUMO FINAL — O que você aprendeu:
+// ============================================================
+// console.log()  → exibir mensagens no terminal
+// Tipos          → string, number, boolean, null, undefined, symbol, bigint
+// Variáveis      → let (mutável), const (imutável), var (evitar)
+// Matemática     → + - * / % ** e operadores de atribuição composta
+// Incremento     → ++ -- += -= *= /= **= %=
+// Coerção        → implícita (automática) e explícita (Number, String, parseInt...)
+// Math           → random, floor, ceil, round, trunc, max, min, sqrt, abs, PI, E
+// Date           → new Date(), getFullYear(), toLocaleDateString(), Date.now()
+// String         → length, at, slice, includes, replace, split, trim, template literals
